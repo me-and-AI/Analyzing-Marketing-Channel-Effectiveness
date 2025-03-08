@@ -2,7 +2,7 @@
 
 ## :bookmark_tabs: Business Problem
 
-The main aim of the analysis is to understand the elements that actually make the ship sail with the marketing department in that way. In particular, the research aimed at separating such campaign types and marketing initiatives as ad spending, email, and visits to the website with the highest impact on customer conversion.
+The goal of this analysis was to understand what factors influence conversion rates across different marketing campaigns. Specifically, we wanted to identify which campaign types and marketing efforts (like ad spend, email engagement, and website visits) have the strongest impact on customer conversion.
 
 ## :screwdriver: Tools & Technologies Used
 
