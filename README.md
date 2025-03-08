@@ -1,6 +1,6 @@
 # Analyzing-Marketing-Channel-Effectiveness
 
-Business Problem
+:bar_chart: Business Problem
 The main aim of the analysis is to understand the elements that actually make the ship sail with the marketing department in that way. In particular, the research aimed at separating such campaign types and marketing initiatives as ad spending, email, and visits to the website with the highest impact on customer conversion.
 Key Insights
 1. Conversion Rates Across Campaign Types
